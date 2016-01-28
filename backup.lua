@@ -1,6 +1,6 @@
 MODE = 'history' -- 'history' or 'users'
-CONTACT_NAME = 'Raff' -- It can be a part of contacts name
-MESSAGE_COUNT = 500
+CONTACT_NAME = 'Mika' -- It can be a part of contacts name
+MESSAGE_COUNT = 1500
 TYPE = 'csv' -- 'csv' or 'sqlite'
 DATABASE_FILE = 'db.sqlite3'
 CSV_FILE_CONTACTS = 'contacts.csv'
